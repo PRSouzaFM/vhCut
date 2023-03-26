@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.2
+google==3.0.0
+soupsieve==2.4
+vboxapi==1.0
